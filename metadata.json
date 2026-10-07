@@ -1,0 +1,8 @@
+{
+  "name": "Remix  DressDemo Quick Mode design 1(final)",
+  "description": "Mobile-first 3-step AI fashion model generation wizard for DressDemo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
